@@ -110,14 +110,14 @@ After replacing the test scores for 9th graders at Thomas High School with NaNs,
 
 ## Challenge Results
 
-- The district summary was slightly affected after replacing the test scores for 9th graders at Thomas High School with NaNs. The average math score decreased from 79.0 to 78.9 while the average reading score remained unchanged. The % of students passing math decreased from 75.0 to 74.8, the % of students passing reading decreased from 85.8 to 85.7, and the overall % of students passing decreased from 65.2 to 64.9.
+- The district summary was slightly affected after replacing the test scores for 9th graders at Thomas High School with NaNs. The average math score decreased from 79.0 to 78.9 while the average reading score remained unchanged. The percentage of students passing math decreased from 75.0% to 74.8%, the percentage of students passing reading decreased from 85.8% to 85.7%, and the overall percentage of students passing decreased from 65.2% to 64.9%.
 
 - After replacing the test scores for 9th graders at Thomas High School with NaNs, the school summary saw slight changes solely for Thomas High School metrics:
   - average math score decreased from 83.42 to 83.35*
   - average reading score increased from 83.85 to 83.9*
-  - % passing math decreased from 93.27 to 93.19*
-  - % passing reading decreased from 97.31 to 97.02*
-  - % overall passing decreased from 90.95 to 90.63* 
+  - percentage passing math decreased from 93.27% to 93.19%*
+  - percentage passing reading decreased from 97.31% to 97.02%*
+  - percentage overall passing decreased from 90.95% to 90.63%* 
   
   * all amounts above are rounded to the nearest hundredths
 
@@ -133,8 +133,8 @@ After replacing the test scores for 9th graders at Thomas High School with NaNs,
   
 ## Challenge Summary
 In Summary, four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs were:
-1. The district summary showed changes, with the most dramatic impact to the overall % of students passing, which decreased 0.3%.
-2. The school summary showed changes for Thomas High School metrics, with the most dramatic impact to the overall % of students passing, which decreased by 0.32%.
+1. The district summary showed changes, with the most dramatic impact to the overall percentage of students passing, which decreased 0.3%.
+2. The school summary showed changes for Thomas High School metrics, with the most dramatic impact to the overall percentage of students passing, which decreased by 0.32%.
 3. Even though Thomas High School's metrics changed, their metrics did not change dramatically enough to see their performance ranking change compared to other schools. They continue to be the #2 top performing school in the district.
 4. The math and reading scores by grade tables now show 'nan's for 9th graders at Thomas High School.
 
